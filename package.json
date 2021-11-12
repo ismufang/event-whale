@@ -1,0 +1,16 @@
+{
+  "name": "event-whale",
+  "version": "1.0.0",
+  "description": "Event Emitter / pubsub.",
+  "main": "index.js",
+  "author": "ismufang <446379625@qq.com>",
+  "homepage": "https://github.com/ismufang/event-whale",
+  "license": "MIT",
+  "keywords": [
+    "events",
+    "eventemitter",
+    "emitter",
+    "pubsub",
+    "eventbus"
+  ]
+}
